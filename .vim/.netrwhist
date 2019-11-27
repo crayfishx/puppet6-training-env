@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/craigdunn/git/inventx-jboss/lib/puppet/provider/jboss_deploy'
+let g:netrw_dirhist_2='/Users/craigdunn/git/jerakia_12/lib/jerakia/server'
+let g:netrw_dirhist_3='/Users/craigdunn/git/qster123.github.io/basics/install'
+let g:netrw_dirhist_4='/Users/craigdunn/git/inventx-jboss/lib/puppet/provider/jboss_deploy'
+let g:netrw_dirhist_5='/Users/craigdunn/git/jerakia-client/lib/jerakia/client'
+let g:netrw_dirhist_6='/Users/craigdunn/vagrant/inventx/hieradata'
+let g:netrw_dirhist_7='/Users/craigdunn/vagrant/inventx'
